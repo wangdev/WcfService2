@@ -1,0 +1,9 @@
+D:\OneDrive\Ywang\Projects\WcfService2\CalculatorWindowsClient\bin\Debug\CalculatorWindowsClient.exe.config
+D:\OneDrive\Ywang\Projects\WcfService2\CalculatorWindowsClient\bin\Debug\CalculatorWindowsClient.exe
+D:\OneDrive\Ywang\Projects\WcfService2\CalculatorWindowsClient\bin\Debug\CalculatorWindowsClient.pdb
+D:\OneDrive\Ywang\Projects\WcfService2\CalculatorWindowsClient\obj\Debug\CalculatorWindowsClient.csprojResolveAssemblyReference.cache
+D:\OneDrive\Ywang\Projects\WcfService2\CalculatorWindowsClient\obj\Debug\CalculatorWindowsClient.Form1.resources
+D:\OneDrive\Ywang\Projects\WcfService2\CalculatorWindowsClient\obj\Debug\CalculatorWindowsClient.Properties.Resources.resources
+D:\OneDrive\Ywang\Projects\WcfService2\CalculatorWindowsClient\obj\Debug\CalculatorWindowsClient.csproj.GenerateResource.Cache
+D:\OneDrive\Ywang\Projects\WcfService2\CalculatorWindowsClient\obj\Debug\CalculatorWindowsClient.exe
+D:\OneDrive\Ywang\Projects\WcfService2\CalculatorWindowsClient\obj\Debug\CalculatorWindowsClient.pdb
