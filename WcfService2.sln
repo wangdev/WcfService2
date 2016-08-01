@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorWcfService", "Cal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorWcfServiceHost", "CalculatorWcfServiceHost\CalculatorWcfServiceHost.csproj", "{904F44F7-A3D7-495B-93D0-A1E2BD498747}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorServiceWebApp", "CalculatorServiceWebApp\CalculatorServiceWebApp.csproj", "{0616B654-8DA9-4D94-AC43-84997D4E2ED9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{904F44F7-A3D7-495B-93D0-A1E2BD498747}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{904F44F7-A3D7-495B-93D0-A1E2BD498747}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{904F44F7-A3D7-495B-93D0-A1E2BD498747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0616B654-8DA9-4D94-AC43-84997D4E2ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0616B654-8DA9-4D94-AC43-84997D4E2ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0616B654-8DA9-4D94-AC43-84997D4E2ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0616B654-8DA9-4D94-AC43-84997D4E2ED9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
